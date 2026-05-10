@@ -18,7 +18,7 @@ A command-line task manager built in Python, focused on software engineering fun
 ```bash
 git clone https://github.com/BrunoSpindola/python-todo-app.git
 cd python-todo-app
-python main.py
+python cli.py
 ```
 
 ---
